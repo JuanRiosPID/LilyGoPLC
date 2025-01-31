@@ -1,0 +1,32 @@
+
+Firmware version
+
+Al iniciar la tablilla PLC debera esperar una confirmacion de que 
+la tablila Screen ha inicializado correctamente
+
+Tipo de tramas
+
+Tablilla PLC            -------------->         Tablilla Screen
+status: 1                                       
+
+IP PLC
+Conexion del PLC
+Conexion de Wifi
+Conexion con AWS
+Nombre del dispositivo AWS
+Direccion modbus
+
+
+
+Errores
+Sin credenciales de Wifi
+Sin conexion a wifi
+Sin conexion a AWS
+Sin conexion al PLC
+
+
+Mensajes
+Conectando a Wifi (indicando la red)
+Conectando a AWS
+Conectando a PLC
+Sistema corriendo
