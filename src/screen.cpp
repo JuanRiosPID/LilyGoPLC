@@ -1,4 +1,6 @@
 #include "screen.h"
+#include <SPI.h>  
+#include <AnimatedGIF.h>
 #include <TFT_eSPI.h>
 #include <PNGdec.h>
 #include "kn_bg.h"
